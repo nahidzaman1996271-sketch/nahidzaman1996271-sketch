@@ -17,7 +17,7 @@ nahid = {
     "university"  : "Daffodil International University",
     "degree"      : "B.Sc. in Software Engineering",
     "batch"       : 45,
-    "semester"    : 3,
+    "semester"    : 4,
     "status"      : "currently caffeinated and debugging something ☕",
     "interests"   : ["AI/ML", "Computer Vision", "Web Dev", "Competitive Programming"],
     "anime"       : "Re:Zero 👑",
