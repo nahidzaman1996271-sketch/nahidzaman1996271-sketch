@@ -27,10 +27,17 @@ nahid = {
 
 ---
 
+## 📜 Certifications
+
+- 🏆 **Microsoft Certified: DP-700** — Implementing Data Engineering Solutions Using Microsoft Fabric *(Aug 2026)*
+
+---
+
 ## 🚀 Projects I'm Proud Of
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| 🖥️ **Cluster Heartbeat** | AI GPU cluster monitoring system — DIU AI Innovation Hackathon 2026 Finalist | FastAPI, Prometheus, Claude API |
 | 🤖 **JARVIS** | Voice-controlled AI assistant powered by Claude API + PyAutoGUI | Python, Anthropic API |
 | 🥷 **Naruto Jutsu Gesture System** | Real-time hand gesture recognition for Naruto jutsu | MediaPipe, OpenCV |
 | 🦾 **Iron Man HUD Interface** | Gesture-controlled Iron Man-style interface | OpenCV, Python |
@@ -43,12 +50,12 @@ nahid = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,nodejs,flask,tensorflow,opencv,mysql,git,github,vscode,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,nodejs,flask,fastapi,tensorflow,opencv,mysql,git,github,vscode,linux&perline=8" />
 </p>
 
 **Languages:** C · C++ · Python · JavaScript · SQL  
-**Frameworks & Libraries:** TensorFlow · Keras · OpenCV · MediaPipe · Flask · Node.js · pandas · NumPy  
-**Tools:** Git · MySQL · VS Code · MySQL Workbench  
+**Frameworks & Libraries:** TensorFlow · Keras · OpenCV · MediaPipe · Flask · FastAPI · Node.js · pandas · NumPy  
+**Tools:** Git · MySQL · VS Code · MySQL Workbench · Prometheus
 
 ---
 
@@ -83,7 +90,9 @@ nahid = {
 
 ## 🎯 Currently
 
-- 📚 Studying **Computer Architecture** & **Database Systems** (3rd Semester)
+- 🏅 Finalist — DIU AI Innovation Hackathon 2026 (Cluster Heartbeat)
+- 📜 Microsoft Certified: DP-700 (Data Engineering, Microsoft Fabric)
+- 📚 Studying **Computer Architecture** & **Database Systems** (Semester 4)
 - 🧠 Practicing **SQL** on LeetCode + **C++** on Beecrowd
 - 🛠️ Building AI-powered personal projects
 - 🌍 Exploring **international scholarships** (Erasmus+, SBW Berlin)
