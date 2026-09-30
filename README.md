@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/nahidzaman1996271-sketch/nahidzaman1996271-sketch/main/nahid_git.gif" width="260" alt="Greeting from Nahid" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nahidzaman1996271-sketch&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/nahidzaman1996271-sketch?label=Followers&style=flat&color=0e75b6" alt="followers" />
 </p>
@@ -17,7 +21,8 @@ nahid = {
     "university"  : "Daffodil International University",
     "degree"      : "B.Sc. in Software Engineering",
     "batch"       : 45,
-    "semester"    : 4,
+    "semester"    : 5
+,
     "status"      : "currently caffeinated and debugging something ☕",
     "interests"   : ["AI/ML", "Computer Vision", "Web Dev", "Competitive Programming"],
     "anime"       : "Re:Zero 👑",
@@ -88,6 +93,18 @@ nahid = {
 
 ---
 
+## 📊 Pacman contribution animation :
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahidzaman1996271-sketch/nahidzaman1996271-sketch/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahidzaman1996271-sketch/nahidzaman1996271-sketch/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nahidzaman1996271-sketch/nahidzaman1996271-sketch/output/pacman-contribution-graph.svg">
+</picture>
+
+> A dedicated developer focused on clean code and meaningful collaborations.
+
+---
+
 ## 🎯 Currently
 
 - 🏅 Finalist — DIU AI Innovation Hackathon 2026 (Cluster Heartbeat)
@@ -108,7 +125,8 @@ nahid = {
   </a>
 </p>
 
----
+<img width="360" height="640" alt="nahid_git (1)" src="https://github.com/user-attachments/assets/678b288f-c41a-4498-8693-b979e35fcbeb" />
+
 
 <p align="center">
   <i>"The best way to predict the future is to build it."</i><br/>
