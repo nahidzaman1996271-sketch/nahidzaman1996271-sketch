@@ -35,9 +35,24 @@ nahid = {
 
 ## 📜 Certifications & Honors
 
-- 🏆 **Microsoft Certified: DP-700** — Implementing Data Engineering Solutions Using Microsoft Fabric *(Aug 2026)*
-- 🏅 **Finalist** — DIU AI Innovation Hackathon 2026 (*Cluster Heartbeat*)
-- 🌿 **Participant & Contributor** — Mati Landtech Hackathon 2026 (*Cryptographic Land Verification Engine*)
+- 🏆 **Microsoft Certified: Fabric Data Engineer Associate** — **Microsoft** *(Aug 2026)*  
+  [![Verify on Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Verify_Credential-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/nahidibnzaman-7719/credentials/certification/fabric-data-engineer-associate?tab=credentials-tab)  
+  *Credential ID:* `D173B69D97E5FDA4` • *Certification Number:* `59C063-535A6B` • Valid through Aug 2027
+
+- 🏅 **Finalist Award — AI Innovation Hackathon 2026: From Learning to Impact** — **DIU & World AI Alliance** *(July 2026)*  
+  *Awarded in recognition of selection for the Final Round with Team **SLOW WALKER** (Project: Cluster Heartbeat — Explainable AI GPU Cluster Telemetry).*
+
+- 🇪🇺 **Certificate of Participation — Erasmus+ Open Day 2026** — **Erasmus+ & Erasmus Mundus Association** *(July 2026)*  
+  *Jointly organized by DIU International Affairs & Erasmus Mundus Association, Bangladesh; Keynote Panel on Cross-Regional Development & Scholarship Strategies.*
+
+- ⚡ **Certificate of Completion: Fundamentals of Data Structures in C** — **Simplilearn SkillUp** *(April 2026)*  
+  *Certificate Code:* `10114918` • *Foundational DSA, dynamic memory management, and pointers.*
+
+- 📐 **Completion Certificate: Introduction to Discrete Mathematics** — **Wolfram U** *(March 2026)*  
+  *4 Training Hours under Wolfram Certified Instructor Marc Vicuna • Graph theory, combinatorics, and discrete algorithmic foundations.*
+
+- 🌿 **Participant & Contributor — LandTech Innovation Hackathon 2026** — **Daffodil International University** *(Oct 2026)*  
+  *Team Leader, **Team Mati** — Cryptographic Land Record & Deed Verification Gateway.*
 
 ---
 
@@ -86,12 +101,12 @@ nahid = {
 
 ## 🎯 Current Focus & Milestones
 
-- 🏅 **Hackathons:** Finalist — DIU AI Innovation Hackathon 2026 (*Cluster Heartbeat*) & Active Participant in National Hackathons
-- 📜 **Certification:** Microsoft Certified: DP-700 (*Data Engineering on Microsoft Fabric*)
+- 🏅 **Hackathons:** Finalist — DIU AI Innovation Hackathon 2026 (Team *SLOW WALKER* / *Cluster Heartbeat*) & Team Leader at Mati LandTech 2026
+- 📜 **Certification:** Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 - 📚 **Academics:** Pursuing B.Sc. in Software Engineering at Daffodil International University (Semester 5)
 - 🧠 **Competitive Programming:** Grinding advanced DSA on LeetCode & Beecrowd (**1,000+ problems solved**)
 - 🛠️ **Systems & AI:** Building high-availability ML pipelines, microgrid dispatch models, and full-stack web applications
-- 🌍 **Global Opportunities:** Preparing applications for international scholarship programs (Erasmus+, SBW Berlin)
+- 🌍 **Global Opportunities:** Preparing applications for international scholarship programs (Erasmus+ Open Day 2026 Participant, SBW Berlin)
 - 🔥 **Commitment:** Continuous learning and shipping production code every single day!
 
 ---
