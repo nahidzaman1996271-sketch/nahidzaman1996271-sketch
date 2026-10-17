@@ -99,13 +99,27 @@ nahid = {
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/nahidzaman1996271-sketch">
-    <img src="https://img.shields.io/badge/GitHub-nahidzaman1996271--sketch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/nahid-zaman-9ba02a3b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <img width="320" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" alt="Nahid Ibn Zaman" src="https://github.com/user-attachments/assets/678b288f-c41a-4498-8693-b979e35fcbeb" />
+  <a href="mailto:nahidzaman1996271@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/nahidzaman1996271-sketch" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/NahidZa72741754" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100040667550202" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/not_ur_nahid" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@NahidZaman-du3eh" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 <p align="center">
