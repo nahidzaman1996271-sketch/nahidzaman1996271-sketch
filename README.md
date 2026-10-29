@@ -114,7 +114,7 @@ nahid = {
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nahid-zaman-9ba02a3b4" target="_blank">
+  <a href="https://www.linkedin.com/in/nahid-zaman-9ba02a3b4](https://www.linkedin.com/in/nahid-ibn-zaman-9ba02a3b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nahidzaman1996271@gmail.com">
